@@ -1,0 +1,16 @@
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\bin\Debug\net5.0\ciriacovettori1.exe
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\bin\Debug\net5.0\ciriacovettori1.deps.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\bin\Debug\net5.0\ciriacovettori1.runtimeconfig.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\bin\Debug\net5.0\ciriacovettori1.runtimeconfig.dev.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\bin\Debug\net5.0\ciriacovettori1.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\bin\Debug\net5.0\ref\ciriacovettori1.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\bin\Debug\net5.0\ciriacovettori1.pdb
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\obj\Debug\net5.0\ciriacovettori1.csproj.AssemblyReference.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\obj\Debug\net5.0\ciriacovettori1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\obj\Debug\net5.0\ciriacovettori1.AssemblyInfoInputs.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\obj\Debug\net5.0\ciriacovettori1.AssemblyInfo.cs
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\obj\Debug\net5.0\ciriacovettori1.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\obj\Debug\net5.0\ciriacovettori1.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\obj\Debug\net5.0\ref\ciriacovettori1.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\obj\Debug\net5.0\ciriacovettori1.pdb
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-ciriaco-devid\ciriacovettori1\ciriacovettori1\obj\Debug\net5.0\ciriacovettori1.genruntimeconfig.cache

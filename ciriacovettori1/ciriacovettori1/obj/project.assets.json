@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\ciriacovettori1\\ciriacovettori1\\ciriacovettori1.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Documents\\GitHub\\3di-2022-esercizivettori-ciriaco-devid\\ciriacovettori1\\ciriacovettori1\\ciriacovettori1.csproj",
       "projectName": "ciriacovettori1",
-      "projectPath": "C:\\Users\\Utente\\Desktop\\ciriacovettori1\\ciriacovettori1\\ciriacovettori1.csproj",
+      "projectPath": "C:\\Users\\Utente\\Documents\\GitHub\\3di-2022-esercizivettori-ciriaco-devid\\ciriacovettori1\\ciriacovettori1\\ciriacovettori1.csproj",
       "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\Desktop\\ciriacovettori1\\ciriacovettori1\\obj\\",
+      "outputPath": "C:\\Users\\Utente\\Documents\\GitHub\\3di-2022-esercizivettori-ciriaco-devid\\ciriacovettori1\\ciriacovettori1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
